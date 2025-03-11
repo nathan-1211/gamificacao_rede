@@ -16,3 +16,5 @@ Após identificar a chave correta, devem inseri-la no servidor.
 Se a chave for correta, a bomba é desarmada. Se a chave estiver errada ou o tempo acabar, a bomba explode.
 Essa abordagem gamificada proporcionou uma experiência interativa e prática, reforçando o aprendizado sobre segurança da informação e criptografia.
 
+TECNOLOGIAS UTILIZADAS:
+Python
